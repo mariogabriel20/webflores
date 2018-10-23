@@ -1,0 +1,25 @@
+
+body{
+	/*background: #F0FF00; /*Fondo completo*/
+	background-color: pink;
+	/*background-image: url(../img/fondo.jpg);*/
+}
+
+.nav{
+	justify-content: center;
+}
+
+.navbar{
+	
+	margin-left: 140px;
+	margin-right: 140px;
+
+}
+
+div.card{
+	background: #BAD9F2; /*fondo estructuras*/
+	color: black; /*letras*/
+	margin: 50px;
+}
+
+
