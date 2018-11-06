@@ -33,7 +33,7 @@
 	<!--Tercer video -->	
 	<div class="card">
 		<div class="embed-responsive embed-responsive-16by9">
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/9lgmcly3Gr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="380" height="180" src="https://www.youtube.com/embed/9lgmcly3Gr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 		<div class="card-body">
 			<h5 class="card-title">Card title</h5>
@@ -76,7 +76,7 @@
 	<!--Tercer video -->	
 	<div class="card">
 		<div class="embed-responsive embed-responsive-16by9">
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/9lgmcly3Gr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="380" height="180" src="https://www.youtube.com/embed/9lgmcly3Gr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 		<div class="card-body">
 			<h5 class="card-title">Card title</h5>

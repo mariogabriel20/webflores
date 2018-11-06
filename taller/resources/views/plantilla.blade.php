@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Floresta Online</title>
+    <title>Floresta</title>
 	<div align="center">
 		<img class="container center-block" src="../img/header1.png" width="500" height="380">	
 	</div>
@@ -25,30 +25,30 @@
 </head>
 
 <body>
-	
+	<br>
 	<div class="row container barra mx-auto">
 		<div class="col-lg-2 text-center">
 			<h4><a class="" style="color: #C965C1;">Menú</a></h4>
 		</div>
 		
 		<div class="col-lg-2 text-center">
-			<h4><a class="" href="{{route('index')}}" style="color: #000;">Inicio</a></h4>
+			<h4><a class="" href="{{route('index')}}" style="color: #b81ef0;">Inicio</a></h4>
 		</div>
 		
 		<div class="col-lg-2 text-center">
-			<h4><a class="" href="{{route('catalogo')}}" style="color: #000;">Catálogo</a></h4>
+			<h4><a class="" href="{{route('catalogo')}}" style="color: #b81ef0;">Catálogo</a></h4>
 		</div>
 				
 		<div class="col-lg-2 text-center">
-			<h4><a class="" href="{{route('tutoriales')}}" style="color: #000;">Tutoriales</a></h4>
+			<h4><a class="" href="{{route('tutoriales')}}" style="color: #b81ef0;">Tutoriales</a></h4>
 		</div>
 		
 		<div class="col-lg-2 text-center">
-			<h4><a class="" href="{{route('contacto')}}" style="color: #000;">Contacto</a</h4>
+			<h4><a class="" href="{{route('contacto')}}" style="color: #b81ef0;">Contacto</a></h4>
 		</div>
 		
 		<div class="col-lg-2 text-center">
-			<h4><a class="" href="#">Iniciar sesión</a></h4>
+			<h4><a class="" href="{{route('login')}}">Iniciar sesión</a></h4>
 		</div>
 	</div>
 

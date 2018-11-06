@@ -1,8 +1,9 @@
 
 body{
 
-	background-image: url(../img/fondo2.jpg);	
-	-webkit-background-size: cover;
+    background-image: url(../img/fondo.jpg);
+    /*background-color: #FFFFFF;*/
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;	
 }
