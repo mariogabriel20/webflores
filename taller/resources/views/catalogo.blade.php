@@ -46,44 +46,6 @@
   <div class="card-group">
       <div class="card color">
         <div class="card-body">
-        <img class="card-img-top" src="img/cards/image4.jpg" class="img-fluid" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Flores</h5>
-          <p class="card-text">Flores en bolsitas.</p>
-        </div>
-        <div class="card-footer">
-          <small class="text-muted">Last updated 3 mins ago</small>
-        </div>
-      </div>
-      </div>
-     <div class="card color">
-        <div class="card-body">
-        <img class="card-img-top" src="img/cards/image5.jpg" class="img-fluid" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Flores</h5>
-          <p class="card-text">Flores en bolsitas.</p>
-        </div>
-        <div class="card-footer">
-          <small class="text-muted">Last updated 3 mins ago</small>
-        </div>
-      </div>
-      </div>
-      <div class="card color">
-        <div class="card-body">
-        <img class="card-img-top" src="img/cards/image7.jpg" class="img-fluid" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Flores</h5>
-          <p class="card-text">Flores en bolsitas.</p>
-        </div>
-        <div class="card-footer">
-          <small class="text-muted">Last updated 3 mins ago</small>
-        </div>
-      </div>
-      </div>
-  </div>
-  <div class="card-group">
-      <div class="card color">
-        <div class="card-body">
         <img class="card-img-top" src="img/cards/image13.jpg" class="img-fluid" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title">Flores</h5>
@@ -109,6 +71,44 @@
       <div class="card color">
         <div class="card-body">
         <img class="card-img-top" src="img/cards/image11.jpg" class="img-fluid" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Flores</h5>
+          <p class="card-text">Flores en bolsitas.</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">Last updated 3 mins ago</small>
+        </div>
+      </div>
+      </div>
+  </div>
+  <div class="card-group">
+      <div class="card color">
+        <div class="card-body">
+        <img class="card-img-top" src="img/cards/image4.jpg" class="img-fluid" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Flores</h5>
+          <p class="card-text">Flores en bolsitas.</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">Last updated 3 mins ago</small>
+        </div>
+      </div>
+      </div>
+     <div class="card color">
+        <div class="card-body">
+        <img class="card-img-top" src="img/cards/image5.jpg" class="img-fluid" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Flores</h5>
+          <p class="card-text">Flores en bolsitas.</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">Last updated 3 mins ago</small>
+        </div>
+      </div>
+      </div>
+      <div class="card color">
+        <div class="card-body">
+        <img class="card-img-top" src="img/cards/image7.jpg" class="img-fluid" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title">Flores</h5>
           <p class="card-text">Flores en bolsitas.</p>

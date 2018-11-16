@@ -37,5 +37,7 @@ div.background {
 	opacity: 0.8;
 	border-radius: 30px;
 }
-
+div.color{
+	background-color: #F8E0F7;
+}
 
