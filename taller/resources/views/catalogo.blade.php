@@ -1,7 +1,7 @@
 @extends('plantilla')
 
 @section('contenido')
-<div class="card container mx-auto">
+
 <div class="container mt-5">
   <div class="card-group">
       <div class="card color">
@@ -122,7 +122,7 @@
 </div>
 <br>
 <br>
-</div>
+
 
 
 @endsection

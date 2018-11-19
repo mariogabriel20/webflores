@@ -6,13 +6,13 @@ use Illuminate\Http\Request;
 
 class pagController extends Controller{
     //
-    public function vistacatalogo(){
-        return view('catalogo');
-    }
-
-	public function inicio(){
+    public function inicio(){
 		return view('index');
 	}
+	
+	public function vistacatalogo(){
+        return view('catalogo');
+    }
 	
 	public function vistatutoriales(){
 		return view('tutoriales');
