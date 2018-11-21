@@ -2,13 +2,13 @@
 
 @section('contenido')
 
-<div class="container mt-5">
+<div class="container mt-5" >
   <div class="card-group">
       <div class="card color">
         <div class="card-body">
         <img class="card-img-top" src="img/cards/image6.jpg" class="img-fluid" alt="Card image cap">
         <div class="card-body">
-          <h5 class="card-title">Ramo de flores</h5>
+          <h5 class="card-title" >Ramo de flores</h5>
           <p class="card-text">Elegante ramo de flores.</p>
         </div>
         <br>

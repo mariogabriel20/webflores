@@ -1,7 +1,7 @@
 
 body{
 
-    background-image: url(../img/fondo.jpg);
+    background-image: url(../img/fondo5.jpg);
     /*background-color: #FFFFFF;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -12,12 +12,13 @@ body{
 .nav{
 	justify-content: center;
 	color: black;
+	
 }
 
 div.card{	
 	border-style: solid;
 	border-radius: 10px;
-	background-color: #F6CFF3; /*fondo estructuras*/
+	background-color: RGBA(50,50,50,0.5);
 	opacity: 0,5;
 	color: black; /*letras*/
 	margin: 50px;	
@@ -34,13 +35,14 @@ div.background {
 }
 
 .barra{
-	background-color: #F6CFF3;
+	background-color: RGBA(50,50,50,0.5);
 	opacity: 0.8;
 	border-radius: 30px;
 }
 
 div.color{
-	background-color: #F8E0F7;
+	background-color: RGBA(50,50,50,0.5);
+	color: #FFFFFF;
 }
 
 
