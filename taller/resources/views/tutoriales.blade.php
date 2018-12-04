@@ -10,9 +10,9 @@
 		<div class="embed-responsive embed-responsive-16by9">
 			<iframe width="380" height="180" src="https://www.youtube.com/embed/pINAgEwgpho" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 		</div>
-		<div class="card-body">
+		<div class="card-body"style="color: #FFFFFF;">
 			<h5 class="card-title">Tutorial Flores #1</h5>
-			<p class="card-text">Floresacas.</p>
+			<p class="card-text">Flores.</p>
 		</div>
 		<div class="card-footer">
 			<small class="text-muted">Last updated 3 mins ago</small>
@@ -23,9 +23,9 @@
 		<div class="embed-responsive embed-responsive-16by9">
 			<iframe width="380" height="180" src="https://www.youtube.com/embed/nwXBJfEmYyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
-		<div class="card-body">
-			<h5 class="card-title">Card title</h5>
-			<p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+		<div class="card-body"style="color: #FFFFFF;">
+			<h5 class="card-title">Tutorial Flores #2</h5>
+			<p class="card-text">Flores.</p>
 		</div>
 		<div class="card-footer">
 			<small class="text-muted">Last updated 3 mins ago</small>
@@ -36,9 +36,9 @@
 		<div class="embed-responsive embed-responsive-16by9">
 			<iframe width="380" height="180" src="https://www.youtube.com/embed/8J3mqrxeREg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
-		<div class="card-body">
-			<h5 class="card-title">Card title</h5>
-			<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+		<div class="card-body"style="color: #FFFFFF;">
+			<h5 class="card-title">Tutorial Flores #3</h5>
+			<p class="card-text">Flores.</p>
 		</div>
 		<div class="card-footer">
 			<small class="text-muted">Last updated 3 mins ago</small>
