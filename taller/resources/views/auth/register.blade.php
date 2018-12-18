@@ -5,7 +5,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-            <div class="card">
+            <div class="card" style="color: #FFFFFF;">
                 <div class="card-header">{{ __('Formulario de registro') }}</div>
 
                 <div class="card-body">

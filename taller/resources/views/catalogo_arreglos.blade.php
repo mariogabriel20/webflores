@@ -2,7 +2,7 @@
 
 @section('contenido')
 
-<div class="container mt-5" >
+<div class="container">
   <div class="card-group">
       <div class="card color">
         <div class="card-body">

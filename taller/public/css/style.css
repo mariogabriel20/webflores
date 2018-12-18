@@ -2,7 +2,6 @@
 body{
 
     background-image: url(../img/fondo5.jpg);
-    /*background-color: #FFFFFF;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -24,20 +23,12 @@ div.card{
 	margin: 50px;	
 }
 
- .titulo{
-	font-family: Charmonman;
-}
-
-div.background {
-    background: url(klematis.jpg) repeat;
-    border: 2px solid black;
-	border-radius: 30px;
-}
-
 .barra{
 	background-color: RGBA(50,50,50,0.5);
-	opacity: 0.8;
 	border-radius: 30px;
+	text-align: center;
+    position: relative;
+    top: 50%;
 }
 
 div.color{
@@ -45,4 +36,82 @@ div.color{
 	color: #FFFFFF;
 }
 
+.social:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
 
+.social {
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+}
+
+#social-fb:hover {
+    color: #3B5998;
+}
+
+#social-tw:hover {
+    color: #4099FF;
+}
+ 
+#social-in:hover {
+	color: #4E433C;
+}
+ 
+.ir-arriba{
+	
+	display: inline-block;
+	padding: 20px;
+	background-size: cover;
+	cursor: pointer;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+}
+
+/* Dropdown */ 
+
+.dropbtn {
+	background-color: transparent;
+	color: white;
+	border: none;
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+	border-radius: 10px;
+	display: none;
+	position: absolute;
+	background-color: RGBA(50,50,50,1);
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+}
+
+.dropdown-content a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	border-radius: 10px;
+}
+.dropdown-content a:hover {
+	background-color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+.dropdown:hover .dropbtn {
+	background-color: transparent;
+}

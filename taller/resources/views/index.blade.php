@@ -21,10 +21,6 @@
         </div>
       </div>
     </div>
-
-    <script src="{{asset('js/jquery.js')}}"></script>
-    <script src="{{asset('js/popper.min.js')}}"></script>
-    <script src="{{asset('js/bootstrap.min.js')}}"></script>
     
     @yield('script')
 	
@@ -38,11 +34,11 @@
 			<div class="carousel-inner" >
 			
 				<div class="carousel-item active">
-					<a href="{{route('tutoriales')}}"><img class="d-block w-100"  src="../img/tutorial_imag1.jpg" alt="First slide" role="button"></a>
+					<img class="d-block w-100"  src="../img/tutoriales.jpg" alt="First slide" role="button">
 				</div>
 				
 				<div class="carousel-item">
-					<a href="{{route('catalogo')}}"><img class="d-block w-100" src="../img/catalogo.jpg" alt="Second slide"></a>
+					<img class="d-block w-100" src="" alt="Second slide">
 				</div>
 				<!-- <div class="carousel-item">
 					<img class="d-block w-100" src=".../800x400?auto=yes&bg=555&fg=333&text=Third slide" alt="Third slide">
